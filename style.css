@@ -88,6 +88,7 @@ li {
   border-radius: 50%;
 }
 
+/*Code below taken from css-tricks*/
 .body {
   position: relative;
   width: 100%;
