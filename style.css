@@ -23,7 +23,7 @@ span {
 }
 
 .business-card {
-  width:90%;
+  width:80%;
   margin: 50px auto;
   background-color: white;
   padding-bottom: 150px;
@@ -40,6 +40,7 @@ span {
   justify-content: space-around;
   width: 80%;
   margin: 0 auto;
+  padding-top: 30px;
 }
 
 .basics {
